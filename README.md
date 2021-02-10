@@ -1,4 +1,4 @@
-#Medical Images Classification
+# Medical Images Classification
 
 This is an image classification project partially guided by Codecademy as a part of fulfilment of my course 'Build a Deep Learning Model with Tensorflow'.\
 \
